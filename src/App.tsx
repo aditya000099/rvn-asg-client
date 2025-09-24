@@ -38,7 +38,7 @@ function App() {
           greet();
         }}
       >
-        <input id="greet-input" placeholder="Enter a name..." />
+        {/* <input id="greet-input" placeholder="Enter a name..." /> */}
         <button type="submit">Send</button>
       </form>
       <p>{os}</p>
